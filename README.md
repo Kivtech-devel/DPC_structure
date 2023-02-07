@@ -1,4 +1,8 @@
-## Important Components Individually Working
+# Important Components Individually Working
+
+
+# STATUS
+
 
 |    COMPONENT          STATUS                   |     CONDITION               |
 |------------------|-----------------------------|-----------------------------|
