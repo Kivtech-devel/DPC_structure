@@ -18,7 +18,7 @@
 |    Serial        | Component being Tested               |     CONDITION                                                     |
 |------------------|--------------------------------------|-------------------------------------------------------------------|
 |  #1              |STORAGE API,VIEWER,DASHBOARD,FIREBASE |   CURRENTLY being tested as [File Manager](https://github.com/Kivtechmain/filemanager)                          |
-|  #2              | GEOLOCATION as GPS and GNSS          |  GPS being tested as [SMS GPS SERVICE](https://github.com/Kivtechmain/GPS),GNSS to be implemented       |
+|  #2              | GEOLOCATION as GPS and GNSS          |  GPS being tested as [SMS GPS SERVICE](https://github.com/Kivtechmain/GPS),[GNSS](https://github.com/Kivtechmain/GNSS) to be implemented       |
 |  #3              | USER FORM                            |   BEING TESTED INTERNALLY                                         |
 |  #4              |  PRIVILIGES                          |   BEING TESTED INTERNALLY                                         |
 |  #5              |   DPC                                |   WORKING,BEING TESTED INTERNALLY                                 |
