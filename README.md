@@ -24,4 +24,4 @@
 |  #6              |   AUTO UPDATE                        | NOT WORKING                                                       |
 |  #7              | USER INTERFACE,DASHBOARD             |  ONLINE WORKING(js),ANDROID not yet IMPLEMENTED,NOT LINKED        |
 |  #8              |  REST API                            | ONLINE (JS), Linked with DASHBOARD ,ANDROID IMPLENETED,NOT TESTED |
-|  #9              |  DEVICE FULL ACCESS                  | BEING TESTED with SUPERSU,SIZUKU, CURRENLTY ROOTED DEVICE WORKS   |
+|  #9              |  DEVICE FULL ACCESS                  | BEING TESTED with SUPERSU,[SIZUKU](https://github.com/RikkaApps/Shizuku), CURRENLTY ROOTED DEVICE WORKS   |
