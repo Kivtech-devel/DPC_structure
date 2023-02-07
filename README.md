@@ -1,1 +1,8 @@
-# component_individual_work
+## Important Components Individually Working
+
+|    COMPONENT          STATUS                   |     CONDITION               |
+|------------------|-----------------------------|-----------------------------|
+|  DATA API        |  REST API WORKING           |           ONLINE            |
+|  FIREBASE        |   WORKING                   |            WORKING          |
+|   APP LAYER      |   #1 WORKING                |      TESTING #2             |
+|   FORM           |   WORKING                   |      TESTING #4             |
