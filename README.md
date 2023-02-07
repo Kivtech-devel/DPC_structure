@@ -4,7 +4,7 @@
 # STATUS
 
 
-|    COMPONENT          STATUS                   |     CONDITION               |
+|    COMPONENT     |    STATUS                   |     CONDITION               |
 |------------------|-----------------------------|-----------------------------|
 |  DATA API        |  REST API WORKING           |           ONLINE            |
 |  FIREBASE        |   WORKING                   |            WORKING          |
