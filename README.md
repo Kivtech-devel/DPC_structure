@@ -24,7 +24,7 @@
 |  #6              |   AUTO UPDATE                        | NOT WORKING                                                       |
 |  #7              | USER INTERFACE,DASHBOARD             |  ONLINE WORKING(js),ANDROID not yet IMPLEMENTED,NOT LINKED        |
 |  #8              |  REST API                            | ONLINE (JS), Linked with DASHBOARD ,ANDROID IMPLEMENTED,NOT TESTED|
-|  #9              | CRYPTOGRAPHY                         | FERNET module,works whats documented [CRYPTOGRAPHY](https://github.com/norkator/cryptography) |                                                   |
+|  #9              | CRYPTOGRAPHY                         | FERNET module,works whats documented [CRYPTOGRAPHY](https://github.com/norkator/cryptography),different module used in JS |                                                   |
 
 
 
