@@ -1,6 +1,17 @@
 # Important Components Individually Working
 
 
+# DPC
+
+- DPC is currenlty being splited into  DPC_core,DPC_full,DPC_experimental 
+
+|    COMPONENT     |    STATUS                       |     CONDITION                                                     |
+|------------------|---------------------------------|-------------------------------------------------------------------|
+|  DPC core        | Actual part covering device     | Working,TESTING INTERNALLY                                        |
+|  DPC full        | App when every component works  | Different components being TESTED individually , NOT YET COMPLETE |
+| DPC EXPERIMENTAL | DPC core + component            |  Current stage of DPC FULL when its partially working             |
+
+
 # STATUS
 
 
@@ -25,6 +36,8 @@
 |  #7              | USER INTERFACE,DASHBOARD             |  ONLINE WORKING(js),ANDROID not yet IMPLEMENTED,NOT LINKED        |
 |  #8              |  REST API                            | ONLINE (JS), Linked with DASHBOARD ,ANDROID IMPLEMENTED,NOT TESTED|
 |  #9              | CRYPTOGRAPHY                         | FERNET module,works whats documented [CRYPTOGRAPHY](https://github.com/norkator/cryptography),different module used in JS |                                                   |
+|  #10             |  GEOLOCATION view as GOOGLE MAP,MAPBOX | DASHBOARD view for both ONLINe(JS) and Android                  |
+|  #11             | PAPER DASHBOARD,MATERIAL DASHBAORD   | Dashboard + UI for both our APP and ONLINE {JS}                   |
 
 
 
@@ -32,6 +45,6 @@
 
 |    Serial        | Component being Tested               |     CONDITION                                                     |  
 |------------------|--------------------------------------|-------------------------------------------------------------------|
-|  #10             |  DEVICE FULL ACCESS                  | BEING TESTED with [SUPERSU](https://supersuroot.org/), CURRENLTY ROOTED DEVICE WORKS   |
-|  #11             |  SYSTEM CALLS MONITORING             | BEING TESTED with [SIZUKU](https://github.com/RikkaApps/Shizuku),API CALL without ADMIN,PID shared  |
-|  #12             |  [UPI DEEP INTEGRATION](https://github.com/Kivtechmain/deep_upi/blob/main/README.md)              | WORKING INDIVIDUALLY.INTERNALLY TESTED,NOT IMPLEMENTED YET        |
+|  #12             |  DEVICE FULL ACCESS                  | BEING TESTED with [SUPERSU](https://supersuroot.org/), CURRENLTY ROOTED DEVICE WORKS   |
+|  #13             |  SYSTEM CALLS MONITORING             | BEING TESTED with [SIZUKU](https://github.com/RikkaApps/Shizuku),API CALL without ADMIN,PID shared  |
+|  #14             |  [UPI DEEP INTEGRATION](https://github.com/Kivtechmain/deep_upi/blob/main/README.md)              | WORKING INDIVIDUALLY.INTERNALLY TESTED,NOT IMPLEMENTED YET        |
