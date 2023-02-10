@@ -36,7 +36,7 @@
 |  #7              | USER INTERFACE,DASHBOARD             |  ONLINE WORKING(js),ANDROID not yet IMPLEMENTED,NOT LINKED        |
 |  #8              |  REST API                            | ONLINE (JS), Linked with DASHBOARD ,ANDROID IMPLEMENTED,NOT TESTED|
 |  #9              | CRYPTOGRAPHY                         | FERNET module,works whats documented [CRYPTOGRAPHY](https://github.com/norkator/cryptography),different module used in JS |                                                   |
-|  #10             |  GEOLOCATION view as GOOGLE MAP,MAPBOX | DASHBOARD view for both ONLINe(JS) and Android                  |
+|  #10             |  GEOLOCATION view as [GOOGLE MAP](https://kivtechmain.github.io/google_map/),[MAPBOX](https://kivtechmain.github.io/mapbox/)| DASHBOARD view for both ONLINe(JS) and Android                  |
 |  #11             | PAPER DASHBOARD,MATERIAL DASHBAORD   | Dashboard + UI for both our APP and ONLINE {JS}                   |
 
 
