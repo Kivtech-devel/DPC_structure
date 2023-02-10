@@ -28,7 +28,7 @@
 |    Serial        | Component being Tested               |     CONDITION                                                     |  
 |------------------|--------------------------------------|-------------------------------------------------------------------|
 |  #1              |STORAGE API,VIEWER,DASHBOARD,FIREBASE |   CURRENTLY being tested as [File Manager](https://github.com/Kivtechmain/filemanager)                          |
-|  #2              | GEOLOCATION as GPS and GNSS          |  GPS being tested as [SMS GPS SERVICE](https://github.com/Kivtechmain/GPS),[GNSS](https://github.com/Kivtechmain/GNSS/gnss.apk)        |
+|  #2              | GEOLOCATION as GPS and GNSS          |  GPS being tested as [SMS GPS SERVICE](https://github.com/Kivtechmain/GPS),[GNSS](https://kivtechmain.github.io/GNSS/gnss.apk)        |
 |  #3              | USER FORM                            |   BEING TESTED INTERNALLY                                         |
 |  #4              |  PRIVILIGES                          |   BEING TESTED INTERNALLY                                         |
 |  #5              |   DPC                                |   WORKING,BEING TESTED INTERNALLY, as DPC core                    |
@@ -38,7 +38,7 @@
 |  #9              | CRYPTOGRAPHY                         | FERNET module,works whats documented [CRYPTOGRAPHY](https://github.com/norkator/cryptography),different module used in JS |                                                   |
 |  #10             |  GEOLOCATION view as [GOOGLE MAP](https://kivtechmain.github.io/google_map/),[MAPBOX](https://kivtechmain.github.io/mapbox/)| DASHBOARD view for both ONLINe(JS) and Android                  |
 |  #11             | PAPER DASHBOARD,MATERIAL DASHBAORD   | Dashboard + UI for both our APP and ONLINE {JS} , [GNSS](https://github.com/Kivtechmain/GNSS/gnss.apk)  has material dashboard #2                  |
-|  #15             |   [USER DASHBOARD](https://kivtechmain.github.io/user_dash_android/USER_DASH.APK)                      | PROTOTYPE AVAILABLE  UI #3
+|  #15             |   [USER DASHBOARD](https://kivtechmain.github.io/user_dash_android/user_dash.apk)                      | PROTOTYPE AVAILABLE  UI #3
 
 
 ## UNDERSTANDING APP LAYER (NOT TO BE INCLUDED),TESTING PURPOSE ONLY 
