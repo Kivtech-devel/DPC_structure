@@ -22,6 +22,7 @@
 |   APP LAYER      |   #1 WORKING                |      TESTING #2             |
 |   FORM           |   WORKING                   |      TESTING #4             |
 | UPI DEEP         | WORKING                     |  NOT IMPLEMENTED            |
+| UUID             | working in all layers       | JS,PYTHON,ANDROID           |
 
 ## APP LAYER (COMPONENTS present in APP as MODULE)
 
