@@ -23,6 +23,7 @@
 |   FORM           |   WORKING                   |      TESTING #4             |
 | UPI DEEP         | WORKING                     |  NOT IMPLEMENTED            |
 | UUID             | working in all layers       | JS,PYTHON,ANDROID           |
+| DATABASE         |  WORKING                    | MYSQL and REDIS,FIREBASE already implememnted |
 
 ## APP LAYER (COMPONENTS present in APP as MODULE)
 
