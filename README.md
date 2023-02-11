@@ -40,14 +40,14 @@
 |  #9              | CRYPTOGRAPHY                         | FERNET module,works whats documented [CRYPTOGRAPHY](https://github.com/norkator/cryptography),different module used in JS |                                                   |
 |  #10             |  GEOLOCATION view as [GOOGLE MAP](https://kivtechmain.github.io/google_map/),[MAPBOX](https://kivtechmain.github.io/mapbox/)| DASHBOARD view for both ONLINe(JS) and Android                  |
 |  #11             | PAPER DASHBOARD,MATERIAL DASHBAORD   | Dashboard + UI for both our APP and ONLINE {JS} , [GNSS](https://github.com/Kivtechmain/GNSS/gnss.apk)  has material dashboard #2                  |
-|  #15             |   [USER DASHBOARD](https://kivtechmain.github.io/user_dash_android/user_dash.apk)                      | PROTOTYPE AVAILABLE  UI #3,UI understandable by anyone |
-| #16              |   CHATBOT                             | IBM WATSON as chatbot_1,CHATGPT/OPENAI   as chatbot_2                 |
+|  #12             |   [USER DASHBOARD](https://kivtechmain.github.io/user_dash_android/user_dash.apk)                      | PROTOTYPE AVAILABLE  UI #3,UI understandable by anyone |
+| #13              |   CHATBOT                             | IBM WATSON as chatbot_1,CHATGPT/OPENAI   as chatbot_2                 |
 
 
 ## UNDERSTANDING APP LAYER (NOT TO BE INCLUDED),TESTING PURPOSE ONLY 
 
 |    Serial        | Component being Tested               |     CONDITION                                                     |  
 |------------------|--------------------------------------|-------------------------------------------------------------------|
-|  #12             |  DEVICE FULL ACCESS                  | BEING TESTED with [SUPERSU](https://supersuroot.org/), CURRENLTY ROOTED DEVICE WORKS   |
-|  #13             |  SYSTEM CALLS MONITORING             | BEING TESTED with [SIZUKU](https://github.com/RikkaApps/Shizuku),API CALL without ADMIN,PID shared  |
-|  #14             |  [UPI DEEP INTEGRATION](https://github.com/Kivtechmain/deep_upi/blob/main/README.md)              | WORKING INDIVIDUALLY.INTERNALLY TESTED,NOT IMPLEMENTED YET        |
+|  #14             |  DEVICE FULL ACCESS                  | BEING TESTED with [SUPERSU](https://supersuroot.org/), CURRENLTY ROOTED DEVICE WORKS   |
+|  #15             |  SYSTEM CALLS MONITORING             | BEING TESTED with [SIZUKU](https://github.com/RikkaApps/Shizuku),API CALL without ADMIN,PID shared  |
+|  #16             |  [UPI DEEP INTEGRATION](https://github.com/Kivtechmain/deep_upi/blob/main/README.md)              | WORKING INDIVIDUALLY.INTERNALLY TESTED,NOT IMPLEMENTED YET        |
