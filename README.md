@@ -43,7 +43,7 @@
 |  #10             |  GEOLOCATION view as [GOOGLE MAP](https://kivtechmain.github.io/google_map/),[MAPBOX](https://kivtechmain.github.io/mapbox/)| DASHBOARD view for both ONLINe(JS) and Android                  |
 |  #11             | PAPER DASHBOARD,MATERIAL DASHBAORD   | Dashboard + UI for both our APP and ONLINE {JS} , [GNSS](https://github.com/Kivtechmain/GNSS/gnss.apk)  has material dashboard #2                  |
 |  #12             |   [USER DASHBOARD](https://kivtechmain.github.io/user_dash_android/user_dash.apk)                      | PROTOTYPE AVAILABLE  UI #3,UI understandable by anyone [4*2](https://kivtechmain.github.io/user_dash_android/user_dash.apk)  [5*2](https://kivtechmain.github.io/user_dash_android/user_dash_10.apk)|
-| #13              |   CHATBOT                             | IBM WATSON as chatbot_1,CHATGPT/OPENAI   as chatbot_2                 |
+| #13              |   CHATBOT                             | IBM WATSON as chatbot_1,Currently testing as NODE js APP,PYTHON App and Android App ,CHATGPT/OPENAI   as chatbot_2,currently testing as PYTHON APP  |
 
 
 ## UNDERSTANDING APP LAYER (NOT TO BE INCLUDED),TESTING PURPOSE ONLY 
