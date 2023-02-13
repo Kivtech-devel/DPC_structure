@@ -58,7 +58,7 @@
 ## Programming languages being USED
 
 
-|    Serial        |    LANGUAGE                          |     CONDITION                                                     |  
+|    Serial        |    LANGUAGE                          |     PURPOSE/USED FOR                                              |  
 |------------------|--------------------------------------|-------------------------------------------------------------------|
 |  1               |  HTML
 |  2               |  JS 
