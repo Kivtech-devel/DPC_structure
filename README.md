@@ -60,11 +60,11 @@
 
 |    Serial        |    LANGUAGE                          |     PURPOSE/USED FOR                                              |  
 |------------------|--------------------------------------|-------------------------------------------------------------------|
-|  1               |  HTML
-|  2               |  JS 
-|  3               |  CSS
-|  4               |  PHP
-|  5               |  SQL
-|  6               |  JAVA
-|  7               |  KOTLIN
-|  8               |  PYTHON   
+|  1               |  HTML                                | WEB PAGES/DASHBOARD                                               |
+|  2               |  JS                                  | Logic in webpages/DASHBOARD and as NODEJS in REST API,NODEAPP     |
+|  3               |  CSS                                 | Style Sheet for WEB PAGES/DASHBOARD                               |
+|  4               |  PHP                                 | As SERVER,API,connection to MYSQL DATABASE                        |
+|  5               |  SQL                                 | As  MYSQL SERVER/PHP,database                                     |
+|  6               |  JAVA                                | For Android Studio/Android APPS                                   |
+|  7               |  KOTLIN                              | For Android Studio/Android APPS                                   |
+|  8               |  PYTHON                              | For testing using cases/AI/ML,logic and design                    |
