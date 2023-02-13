@@ -53,3 +53,18 @@
 |  #14             |  DEVICE FULL ACCESS                  | BEING TESTED with [SUPERSU](https://supersuroot.org/), CURRENLTY ROOTED DEVICE WORKS   |
 |  #15             |  SYSTEM CALLS MONITORING             | BEING TESTED with [SIZUKU](https://github.com/RikkaApps/Shizuku),API CALL without ADMIN,PID shared  |
 |  #16             |  [UPI DEEP INTEGRATION](https://github.com/Kivtechmain/deep_upi/blob/main/README.md)              | WORKING INDIVIDUALLY.INTERNALLY TESTED,NOT IMPLEMENTED YET        |
+
+
+## Programming languages being USED
+
+
+|    Serial        |    LANGUAGE                          |     CONDITION                                                     |  
+|------------------|--------------------------------------|-------------------------------------------------------------------|
+|  1               |  HTML
+|  2               |  JS 
+|  3               |  CSS
+|  4               |  PHP
+|  5               |  SQL
+|  6               |  JAVA
+|  7               |  KOTLIN
+|  8               |  PYTHON   
