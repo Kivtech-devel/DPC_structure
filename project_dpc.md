@@ -31,28 +31,31 @@
 
 |    Serial        | Component being Tested               |     CONDITION                                                     |  
 |------------------|--------------------------------------|-------------------------------------------------------------------|
-|  #1              |STORAGE API,VIEWER,DASHBOARD,FIREBASE |   CURRENTLY being tested as [File Manager](https://github.com/Kivtechmain/filemanager)                          |
-|  #2              | GEOLOCATION as GPS and GNSS          |  GPS being tested as [SMS GPS SERVICE](https://github.com/Kivtechmain/GPS),[GNSS](https://kivtechmain.github.io/GNSS/gnss.apk)        |
-|  #3              | USER FORM                            |   BEING TESTED INTERNALLY                                         |
-|  #4              |  PRIVILIGES                          |   BEING TESTED INTERNALLY                                         |
-|  #5              |   DPC                                |   WORKING,BEING TESTED INTERNALLY, as DPC core                    |
-|  #6              |   AUTO UPDATE                        | NOT WORKING                                                       |
-|  #7              | USER INTERFACE,DASHBOARD             |  ONLINE WORKING(js),ANDROID ,NOT LINKED        |
-|  #8              |  REST API                            | ONLINE (JS), Linked with DASHBOARD ,ANDROID IMPLEMENTED,NOT TESTED|
-|  #9              | CRYPTOGRAPHY                         | FERNET module,works whats documented [CRYPTOGRAPHY](https://github.com/norkator/cryptography),different module used in JS |                                                   |
-|  #10             |  GEOLOCATION view as [GOOGLE MAP](https://kivtechmain.github.io/google_map/),[MAPBOX](https://kivtechmain.github.io/mapbox/)| DASHBOARD view for both ONLINe(JS) and Android                  |
-|  #11             | PAPER DASHBOARD,MATERIAL DASHBAORD   | Dashboard + UI for both our APP and ONLINE {JS} , [GNSS](https://github.com/Kivtechmain/GNSS/gnss.apk)  has material dashboard #2                  |
-|  #12             |   [USER DASHBOARD](https://kivtechmain.github.io/user_dash_android/user_dash.apk)                      | PROTOTYPE AVAILABLE  UI #3,UI understandable by anyone [4*2](https://kivtechmain.github.io/user_dash_android/user_dash.apk)  [5*2](https://kivtechmain.github.io/user_dash_android/user_dash_10.apk)|
-| #13              |   CHATBOT                             | IBM WATSON as chatbot_1,Currently testing as NODE js APP,PYTHON App and Android App ,CHATGPT/OPENAI   as chatbot_2,currently testing as PYTHON APP  |
+|  #1              |STORAGE API |   CURRENTLY being tested as [File Manager](https://kivtech-devel.github.io/filemanager)                          |
+|  #2              |VIEWER,DASHBOARD |   CURRENTLY being tested as [File Manager](https://kivtech-devel.github.io/filemanager)                          |
+|  #3              |FIREBASE |   CURRENTLY being tested as [File Manager](https://kivtech-devel.github.io/filemanager) ,also using NODEjs                         |
+|  #4              | GEOLOCATION as GPS and GNSS          |  GPS being tested as [SMS GPS SERVICE](https://kivtech-devel.github.io/GPS),[GNSS](https://kivtech-devel.github.io/GNSS/gnss.apk)        |
+|  #5              | USER FORM                            |   BEING TESTED INTERNALLY                                         |
+|  #6              |  PRIVILIGES                          |   BEING TESTED INTERNALLY                                         |
+|  #7              |   DPC                                |   WORKING,BEING TESTED INTERNALLY, as DPC core                    |
+|  #8              |   AUTO UPDATE                        | NOT WORKING                                                       |
+|  #9              | USER INTERFACE,DASHBOARD             |  ONLINE WORKING(js),ANDROID ,NOT LINKED        |
+|  #10              |  REST API                            | ONLINE (JS), Linked with DASHBOARD ,ANDROID IMPLEMENTED,NOT TESTED|
+|  #11              | CRYPTOGRAPHY                         | FERNET module,works whats documented [CRYPTOGRAPHY](https://github.com/norkator/cryptography),different module used in JS |                                                   |
+|  #12             |  GEOLOCATION view as [GOOGLE MAP](https://kivtech-devel.github.io/google_map/),[MAPBOX](https://kivtech-devel.github.io/mapbox/)| DASHBOARD view for both ONLINe(JS) and Android                  |
+|  #13             | PAPER DASHBOARD,MATERIAL DASHBAORD   | Dashboard + UI for both our APP and ONLINE {JS} , [GNSS](https://kivtech-devel.github.io/GNSS/gnss.apk)  has material dashboard #2                  |
+|  #14             | DATABASE#2                           | PHP/MYSQL|
+|  #15             |   [USER DASHBOARD](https://kivtech-devel.github.io/user_dash_android/user_dash.apk)                      | PROTOTYPE AVAILABLE  UI #3,UI understandable by anyone [4*2](https://kivtech-devel.github.io/user_dash_android/user_dash.apk)  [5*2](https://kivtech-devel.github.io/user_dash_android/user_dash_10.apk)|
+| #16              |   CHATBOT                             | IBM WATSON as chatbot_1,Currently testing as NODE js APP,PYTHON App and Android App ,CHATGPT/OPENAI   as chatbot_2,currently testing as PYTHON APP  |
 
 
 ## UNDERSTANDING APP LAYER (NOT TO BE INCLUDED),TESTING PURPOSE ONLY 
 
 |    Serial        | Component being Tested               |     CONDITION                                                     |  
 |------------------|--------------------------------------|-------------------------------------------------------------------|
-|  #14             |  DEVICE FULL ACCESS                  | BEING TESTED with [SUPERSU](https://supersuroot.org/), CURRENLTY ROOTED DEVICE WORKS   |
-|  #15             |  SYSTEM CALLS MONITORING             | BEING TESTED with [SIZUKU](https://github.com/RikkaApps/Shizuku),API CALL without ADMIN,PID shared  |
-|  #16             |  [UPI DEEP INTEGRATION](https://github.com/Kivtechmain/deep_upi/blob/main/README.md)              | WORKING INDIVIDUALLY.INTERNALLY TESTED,NOT IMPLEMENTED YET        |
+|  #17             |  DEVICE FULL ACCESS                  | BEING TESTED with [SUPERSU](https://supersuroot.org/), CURRENLTY ROOTED DEVICE WORKS   |
+|  #18             |  SYSTEM CALLS MONITORING             | BEING TESTED with [SIZUKU](https://github.com/RikkaApps/Shizuku),API CALL without ADMIN,PID shared  |
+|  #19             |  [UPI DEEP INTEGRATION](https://github.com/Kivtechmain/deep_upi/blob/main/README.md)              | WORKING INDIVIDUALLY.INTERNALLY TESTED,NOT IMPLEMENTED YET        |
 
 
 ## Programming languages being USED
