@@ -23,7 +23,7 @@
 |   FORM           |   WORKING                   |      TESTING #4             |
 | UPI DEEP         | WORKING                     |  NOT IMPLEMENTED            |
 | UUID             | working in all layers       | JS,PYTHON,ANDROID           |
-| DATABASE         |  WORKING                    | MYSQL and REDIS,FIREBASE already implememnted |
+| DATABASE         |  WORKING                    | MYSQL and REDIS,FIREBASE already implememnted.Trying SQLITE as it can also work  |
 | JSON             | DATA component,required     | PYTHON,JS,PHP supports its natively,android doesnt have any so utilizing packages [GSON](https://github.com/google/gson) , [JACKSON](https://www.baeldung.com/jackson) |
 | DROPDOWN/ANDROID FORM|  REQUIRED,ANDROID           |Though forms can be build with tables,class,div using css and js for HTML and can be easily used by PHP by embedding it.In Android either we can use the same JS,CSS through WEBVIEW or optionally create a layout  |
 
