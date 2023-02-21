@@ -17,8 +17,8 @@
 
 |    COMPONENT     |    STATUS                   |     CONDITION               |
 |------------------|-----------------------------|-----------------------------|
-|  DATA API        |  REST API WORKING           |           ONLINE            |
-|  FIREBASE        |   WORKING                   |            WORKING          |
+|  DATA API        |  REST API WORKING           |           ONLINE,[mock api](https://firebase-link-nodejs.vercel.app/)            |
+|  FIREBASE        |   WORKING                   |            WORKING,[mock api](https://firebase-link-nodejs.vercel.app/)           |
 |   APP LAYER      |   #1 WORKING                |      TESTING #2             |
 |   FORM           |   WORKING                   |      TESTING #4             |
 | UPI DEEP         | WORKING                     |  NOT IMPLEMENTED            |
