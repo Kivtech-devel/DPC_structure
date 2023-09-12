@@ -1,5 +1,7 @@
 # Important Components Individually Working
 
+- project halted as to internal design changes and API changes to ANDROID EMM API
+
 
 # DPC
 
